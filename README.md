@@ -1,4 +1,4 @@
-# rest-countries
+# 0. rest-countries
 
 1. Template, dynamically create HTML elements based on data( 44-3 )
 
